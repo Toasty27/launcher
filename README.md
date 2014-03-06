@@ -81,3 +81,9 @@ License
 -------
 
 The launcher is licensed under the GNU General Public License, version 3.
+
+
+Linkware
+--------
+
+Icon from [VisualPharm](http://www.visualpharm.com/)
